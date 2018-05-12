@@ -1,0 +1,27 @@
+_repo: Hookers_36711
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36711-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mann, Richard F.
+    gutenberg_agent_id: '38437'
+    url: http://www.gutenberg.org/2009/agents/38437
+description: ''
+gutenberg_issued: '2011-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36711'
+  lccn: '32013062'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'El Paso (Tex.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Prostitutes -- Fiction'
+- !lcsh 'Ciudad Juárez (Mexico) -- Fiction'
+title: Hookers
+url: http://www.gutenberg.org/ebooks/36711
